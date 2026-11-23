@@ -2,6 +2,13 @@
 
 TravelMate is a chatbot that provides basic travel and tourism information about Malaysia.
 
+## Team Members
+
+| Name |
+|---|
+| MOHAMAD SYAKIR BIN NOR AZMI |
+| MUHAMAD DAHNIAL BIN MOHD TAHIR |
+
 ## Destinations
 - Kuala Lumpur
 - Melaka
