@@ -4,10 +4,10 @@ TravelMate is a chatbot that provides basic travel and tourism information about
 
 ## Team Members
 
-| Name |
-|---|
-| MOHAMAD SYAKIR BIN NOR AZMI |
-| MUHAMAD DAHNIAL BIN MOHD TAHIR |
+| Name | Role |
+|---|---|
+| MUHAMAD DAHNIAL BIN MOHD TAHIR | Project Leader / Backend & AI Integration |
+| MOHAMAD SYAKIR BIN NOR AZMI | Frontend Developer |
 
 ## Destinations
 - Kuala Lumpur
