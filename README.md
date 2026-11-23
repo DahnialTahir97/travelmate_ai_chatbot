@@ -1,4 +1,4 @@
-# TravelMate AI Chatbot
+# TravelMate Chatbot
 
 TravelMate is a chatbot that provides basic travel and tourism information about Malaysia.
 
