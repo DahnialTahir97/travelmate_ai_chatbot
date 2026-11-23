@@ -50,4 +50,4 @@ TravelMate is a chatbot that provides basic travel and tourism information about
 The custom dataset is available at `data/travel_dataset.csv`.
 
 ## Note
-TravelMate is an academic prototype. It does not provide live booking, ticket prices or real-time travel updates.
+TravelMate helps you plan your journey by providing useful travel information, destination recommendations, and tips to make your trip easier and more enjoyable. ;)
